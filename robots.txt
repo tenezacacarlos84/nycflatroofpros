@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://nycflatroofpros.com/sitemap.xml
+Sitemap: https://nycflatroofexperts.com/sitemap.xml
